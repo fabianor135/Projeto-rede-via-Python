@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/017b9994-aa60-407e-bbf3-d26be676cc3f)
+
 # Teste de Internet e Monitoramento de Rede
 
 Este projeto é um script Python que realiza testes abrangentes de desempenho de conexão com a Internet e monitoramento de rede local. Ele foi projetado para diagnosticar possíveis problemas, identificar dispositivos conectados e verificar indícios de práticas como **traffic shaping** por parte de provedores de Internet.
