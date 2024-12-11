@@ -138,6 +138,7 @@ LinkedIn: [Fabiano](https://www.linkedin.com/in/fabiano-rodrigues-leite-82085517
 GitHub: fabianor135
 
 📝 Licença
+
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
 
 
