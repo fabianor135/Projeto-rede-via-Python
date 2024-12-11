@@ -134,8 +134,9 @@ Abra um Pull Request no GitHub.
 Caso tenha dúvidas ou sugestões, entre em contato:
 
 E-mail: fabianor135@gmail.com
-LinkedIn: [Seu Nome](https://www.linkedin.com/in/fabiano-rodrigues-leite-820855179/)
+LinkedIn: [Fabiano](https://www.linkedin.com/in/fabiano-rodrigues-leite-820855179/)
 GitHub: fabianor135
+
 📝 Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
 
