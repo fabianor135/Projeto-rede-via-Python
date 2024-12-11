@@ -1,0 +1,15 @@
+Resultados do Teste de Velocidade
+Média de Velocidade de Download: 51.14 Mbps
+Média de Velocidade de Upload: 67.76 Mbps
+
+Dispositivos Conectados à Rede
+IP: 192.168.0.1, MAC: 02:10:18:80:70:0c
+IP: 192.168.0.9, MAC: 0c:8c:24:37:9c:b0
+IP: 192.168.0.161, MAC: 04:bf:1b:bd:bb:a3
+IP: 192.168.0.196, MAC: 80:85:44:66:29:74
+IP: 192.168.0.77, MAC: ec:a1:38:eb:11:22
+IP: 192.168.0.93, MAC: d0:c2:4e:c8:7a:7a
+IP: 192.168.0.59, MAC: 84:0d:8e:49:08:ed
+IP: 192.168.0.85, MAC: 44:cb:8b:15:62:eb
+IP: 192.168.0.101, MAC: 50:8b:b9:1b:05:1d
+IP: 192.168.0.224, MAC: 70:03:9f:d0:15:5f
