@@ -36,8 +36,8 @@ Certifique-se de ter instalado:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone git@github.com:fabianor135/Projeto-rede-via-Python.git
+   cd Projeto-rede-via-Python
 Instale as dependências:
 
 bash
@@ -100,32 +100,6 @@ Certifique-se de ter instalado:
 - **Python 3.8 ou superior**
 - Pip (gerenciador de pacotes do Python)
 
-### Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
-Instale as dependências:
-
-bash
-Copiar código
-pip install -r requirements.txt
-O arquivo requirements.txt contém:
-
-plaintext
-Copiar código
-speedtest-cli
-requests
-psutil
-scapy
-Execução
-Basta executar o script principal:
-
-bash
-Copiar código
-python traffic.py
-##################################################################################
 
 📊 Saída Esperada
 O script fornece uma saída detalhada com:
@@ -159,7 +133,7 @@ Abra um Pull Request no GitHub.
 📞 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
 
-E-mail: seu-email@dominio.com
+E-mail: fabianor135@gmail.com
 LinkedIn: [Seu Nome](https://www.linkedin.com/in/fabiano-rodrigues-leite-820855179/)
 GitHub: fabianor135
 📝 Licença
